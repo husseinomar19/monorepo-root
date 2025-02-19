@@ -24,7 +24,7 @@ Route::get('/test', function () {
             "naam" => "John Doe",
             "email" => "johndoe@example.com",
             "age" => 32
-        ],
+        ],  
         [
             "naam" => "Jane Doe",
             "email" => "janedoe@example.com",
